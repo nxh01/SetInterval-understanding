@@ -1,0 +1,19 @@
+.container {
+  display: inline-block;
+  font-family: sans-serif;
+}
+#h {
+  display: inline-block;
+}
+#m {
+  display: inline-block;
+}
+#s {
+  display: inline-block;
+}
+#ms {
+  display: inline-block;
+}
+.p {
+  display: inline-block;
+}
